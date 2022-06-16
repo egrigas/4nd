@@ -88,14 +88,17 @@ table:nth-of-type(3) td {
 
 table:nth-of-type(3) .oranzine {
     background: #fea500;
+    color: white;
 }
 
 table:nth-of-type(3) .melyna {
     background: #4f4fff;
+    color: white;
 }
 
 table:nth-of-type(3) .zalia {
     background: #16c03b;
+    color: white;
 }
 
 table:nth-of-type(4)  {
